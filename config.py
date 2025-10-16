@@ -24,8 +24,8 @@ class config:
     SUPPORT_CHAT = -1003180602440
     SUPPORT_CHAT_USERNAME = "TNCmeetup"
     SUPPORT_CHAT_LINK = "https://t.me/TNCmeetup"
-    LOG_CHANNEL = -1001625036774
-    ERROR_LOG_CHANNEL = -1001625036774
+    LOG_CHANNEL = -1003180602440
+    ERROR_LOG_CHANNEL = -1003180602440
     DOWNLOAD_LOCATION = "./downloads"
     COMMAND_PREFIXES = ["/" , "!" , "." , "#" , "$" , "%" , "&" , "?"] 
     CMD_STARTERS = "/.!&#%$"
