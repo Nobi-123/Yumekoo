@@ -1,29 +1,29 @@
 class config:
     
     #Client
-    API_ID = 0
-    API_HASH = "0"
-    BOT_TOKEN = "0:0-0"
-    BOT_NAME = "Your_Bot_Name"
-    BOT_USERNAME = "Your_Bot_Username"
-    BOT_ID = 0
+    API_ID = 22657083
+    API_HASH = "d6186691704bd901bdab275ceaab88f3"
+    BOT_TOKEN = "7489206821:AAGkkjz2rCQmZN33PUR9sKwhr-PI1fNp64U"
+    BOT_NAME = "𝐑 𝐀 𝐅 𝐈 𝐍"
+    BOT_USERNAME = "RafinGroupBot"
+    BOT_ID = 7489206821
     WORKERS = 30
     MAX_MESSAGE_CACHE_SIZE = 100
     MAX_CONCURRENT_TRANSMISSIONS = 10
     
      
     #Git
-    GIT_USERNAME = "Your_Git_Username"
-    GIT_URL_WITH_TOKEN = "https://Your_Git_Token@github.com/Your_Git_Username/Yumeko.git" 
+    GIT_USERNAME = "Nobi-123"
+    GIT_URL_WITH_TOKEN = "https://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@github.com/Nobi-123/Yumeko.git" 
 
 
     #Info
     BOT_VERSION = "x"
-    OWNER_ID = 5630057244
-    OWNER_USERNAME = "senpaiii10"
-    SUPPORT_CHAT = -1002069412308
-    SUPPORT_CHAT_USERNAME = "Domihoes"
-    SUPPORT_CHAT_LINK = "https://t.me/Domihoes"
+    OWNER_ID = 8076443359
+    OWNER_USERNAME = "SemxyCarders"
+    SUPPORT_CHAT = -1003180602440
+    SUPPORT_CHAT_USERNAME = "TNCmeetup"
+    SUPPORT_CHAT_LINK = "https://t.me/TNCmeetup"
     LOG_CHANNEL = -1001625036774
     ERROR_LOG_CHANNEL = -1001625036774
     DOWNLOAD_LOCATION = "./downloads"
